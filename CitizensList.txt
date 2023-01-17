@@ -1,0 +1,4 @@
+1 -- Michle -- John -- Male -- 1990-12-07 -- single -- -1
+2 -- Emma -- Eva -- Female -- 1992-05-02 -- divorced -- -1
+3 -- James -- Lucas -- Male -- 1993-04-01 -- married -- 4
+4 -- Charlotte -- Amelia -- Female -- 1995-12-09 -- married -- 3
